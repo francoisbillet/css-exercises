@@ -1,0 +1,18 @@
+.red-bg {
+    background-color: hsl(0, 56%, 59%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second-element {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+.but-bigger {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: hsl(120, 69%, 54%);
+    font-weight: bold;
+}
